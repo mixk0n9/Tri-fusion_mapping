@@ -1,6 +1,6 @@
 # :office:LLM과 추천 시스템 기반의 기업 매칭 서비스:office:
 
-<img src="./gwangingu_images/광진구청 로고.png" width="250" height="100"/>
+<img src="./tri-fusion_images/산업통상자원부 로고.jpg" width="250" height="100"/>
 
 제12회 산업통상자원부 공공데이터 활용 아이디어 공모전
 
