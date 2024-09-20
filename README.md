@@ -6,9 +6,9 @@
 
 **:trophy:최우수상 수상**
 
-Tri-Fusion mapping 알고리즘 출품
+  Tri-Fusion mapping 알고리즘 출품
 
-(LLM, 언어 모델, 추천 시스템에 기반한 HS CODE 10단위 매핑)
+  (LLM, 언어 모델, 추천 시스템에 기반한 HS CODE 10단위 매핑)
 
 ----------------------
 
