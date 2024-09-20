@@ -4,7 +4,7 @@
 
 **제12회 산업통상자원부 공공데이터 활용 아이디어 공모전**
 
-**:trophy:최우수상 수상**
+**:trophy:최우수상 수상:trophy:**
 
   Tri-Fusion mapping 알고리즘 출품
 
