@@ -29,7 +29,7 @@
 3명
 
 ### :memo:역할
-HS code 번역, LLM 프롬프트 엔지니어링, Reranking 모델 구축
+HS code 번역 및 전처리, Reranking 모델 구축
 
 
 ### :chart_with_upwards_trend: 배경
